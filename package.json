@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MatchaBear/demo-npm-nodejs/issues"
   },
-  "homepage": "https://github.com/MatchaBear/demo-npm-nodejs#readme"
+  "homepage": "https://github.com/MatchaBear/demo-npm-nodejs#readme",
+  "dependencies": {
+    "mathjs": "^11.5.1"
+  }
 }
